@@ -1,0 +1,18 @@
+Control Statements 
+
+
+based on conditions wew will execute a block of code
+ Three 3 type of control statements 
+
+1 > Conditional Statements 
+ 2 > Looping/ iterative statements
+3 > Jump statements
+
+
+Conditional Statements 
+
+1> if 
+2 > if else 
+3 > nested if else 
+4 > switch
+

@@ -1,0 +1,97 @@
+	this and static keywords
+
+Day =13
+
+this keyword is used to differenciate the class and local variables.
+
+types of variables 
+1> class variables (instance variables)
+2 > local variables 
+
+
+static keyword > 
+
+static keyword can apply for varaible and methods.
+
+static variables
+static methods 
+
+non-static variables
+non-static methods
+
+
+Exp :
+
+
+
+
+
+Emp - class > variables, id, name, > methods > bonus, login, work
+
+
+Emp > can create multiple objects
+
+through the object variable we can operaatee
+
+to avoid code duplication make the member to static
+
+problems to overcome by static keyword 
+1> modification is difficult
+2 > memory also wasted 
+
+to solve the above problems 
+
+1> assign the value to the particular variable 
+2> make the variable to static
+that variable is common to multiple object
+
+
+1> static methods can access static stuffs directly.
+2> static methods can access non-static stuffs through the objects.
+3> from non-static methods we can access non-static and static stuff directly.
+4> if we have different class, need to access the static by using classname
+5> for non-static we need to create object and clear 
+
+question ?
+
+class Test {
+static String s = "welcome";
+classname.s.length();
+
+
+class System {
+
+
+static PrintStream out;
+
+}
+
+System.out.println();
+
+}
+
+System > is a predefined class
+out > is static variable of printStream class 
+println >  is a method present in printStream class
+}
+
+
+
+JVM > always looks for the main method > 
+
+starts execution
+public static void main(String[] args ) {
+ public > access modifer we can access where ever
+ static = we can access directly without creating any object.
+ void - main method will not return any value;
+ String[] args - is the string arguments can take as a arguments
+ 
+  
+
+
+
+
+}
+
+
+

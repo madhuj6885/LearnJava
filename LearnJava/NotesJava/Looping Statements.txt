@@ -1,0 +1,53 @@
+Control Flow statements
+
+Lopping or iterative statements
+
+set of statements we are executing repeatedly upto condition becomes false
+
+
+4 Types of loops
+
+
+1> While loop
+2> Do while loop
+3> For Loop
+
+Advanategs 
+
+Reduce the code
+
+Reusability 
+
+starting point(intialization), condition, increment or decrement
+
+
+
+1> While Loop
+
+while(condition) 
+{
+//Statements
+
+}
+
+increment, decrement;
+
+
+
+2 > do while loop
+
+do {
+
+statements
+incr/decr;
+
+} while(condition);
+
+
+
+which loop is prefered
+
+if we knwo for how many times we need to repeat the loop > For loop
+if we want the loop to execute at least once  > do while loop
+if we dont know the condition then > while loop
+

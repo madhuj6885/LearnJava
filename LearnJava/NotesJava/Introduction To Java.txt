@@ -1,0 +1,62 @@
+Java - is a object oriented programming language.
+
+Object oriented programming:
+The programes which provides object oriented concepts like Class, Object, Polymorphism, Inheritence, Abstraction, Encapsulation.
+
+Features of Java
+1> Platform independent
+2> Case sensitive
+
+Componenets of Java
+
+1>JDK (Java Development Kit)
+2> JRE (Java Runtime Environment)
+3> JVM (Java Virtual Machine)
+
+
+
+JDK -  is used to develop the software in java ned to install JDK
+
+
+JRE - if any software which is already developed in java, before installing we need to install  JRE to run the application.
+
+JVM - jvm which converts source code to bytecode, this bytecode achieves Platform independent and also compile the source code.
+
+JVM is a heart of Java
+
+
+
+
+Environment Set up
+Installation process of JDK/Java
+IDE(integrated Development Environment)/Eclipse
+
+
+
+Installation of JDK/Java
+
+search - jdk download > >windows> .exe(windows> .dmg(macos) >
+
+Once install JDK, then we have set Java Path
+C:Programme Files/Java/bin > copy 
+Advanced Settings >  Environment variables > System variables >  Path > edit > New > paste > click ok
+
+verify JDK installed or not?
+
+open command > java -version
+
+
+
+Downloading Eclipse >
+
+eclipse.org.downloads > Eclipse IDE > .exe for windows > click to install > Select Eclipse IDE for Java Developers >
+
+
+
+
+
+
+
+
+
+

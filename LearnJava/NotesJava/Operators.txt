@@ -1,0 +1,43 @@
+Operators = oprator is a symbol used to perform opratios like add, sub , etc..
+
+6 types of operators
+
+
+1> Arithmetic operator (+ , - , / , * , %)
+
+2> Relational or Camparison operator (>, >=, <, <=, !=, ==)
+
+3> Logical operator (&&, ||, !)
+ 
+4 > Increment and Decrement operator (++, --)
+
+5 > Assignment operator (=, +=, -=, *=, /=, %=)
+
+6 > Ternary Operator (var i = (exp) ? value1 : value2);
+
+post increement  a++ > will uses the value then it will increases 
+pre increment  ++a > will increases the value then uses the value by 1 
+
+
+post decrement  a-- > it will  uses the value then decreases by 1;
+
+pree decrement  --a > it will decrases the value by 1 then uses the value ;
+
+
+
+
+
+
+Logical operator > campares two boolean values 
+
+
+x      y     x &&y  x||y  x!
+true  true   true  true  false
+true false   false true  false
+false true   false  true  true
+false false  false  false  true
+
+
+
+
+

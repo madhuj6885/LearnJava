@@ -1,0 +1,43 @@
+Day -15
+
+Method Overriding 
+when there is a IS-A relationship btwn two classes we will extending the methods of parent class and the 
+impelementation in child class is called Method overriding.
+Method overriding can be applicable when there is a inheritance .
+
+
+Rules of Method overriding
+
+1> Method declaration should be same.
+2> There should be IS-A relationship between two classes.
+
+Exp :  Bank > sbi > icici
+
+
+Difference between Overriding and over loading
+
+Method Overriding
+
+1> Possible only if there is a inheritence.
+2 > We should not change the signature of the method.
+3> method names are same.
+4> belongs to inheritance.
+
+
+
+
+Method overloading
+
+1 > Differ in the method signature
+2 > possible in sigle and multiple classes.
+3 > method names are same
+4 > belongs to polymorphism.
+
+
+Final Keyword
+
+1> we can apply for classes, variables and methods.
+2 > we cannot change the data of the variable (constant)
+3 > we cannot inherit the class to another classes.
+4 > we annot override the methods of final.
+
